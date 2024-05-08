@@ -17,7 +17,8 @@ menu
 members
 
 You can inspect the entity relationship diagram and example data below.
-![Danny's Dinner1](https://github.com/Azar963/Case-Study-1---Danny-s-Diner/assets/101073959/40f4b200-cc2b-46b6-81bc-16588d291148)
+
+![Danny's Dinner](https://github.com/Azar963/Case-Study-1---Danny-s-Diner/assets/101073959/112bedbd-16d0-4e27-bafc-75d4ebf87bd5)
 
 
 ## Case Study Questions
